@@ -59,3 +59,4 @@ var fullJustify = function (words, maxWidth) {
 words = ["Here","is","an","example","of","text","justification."]
 maxWidth = 15;
 console.log(fullJustify(words, maxWidth));
+ 
